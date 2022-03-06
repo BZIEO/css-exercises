@@ -1,0 +1,18 @@
+.red {
+  background-color: rgba(255, 100, 100, 0.46);
+}
+
+.cooler {
+  font-size: 24px;
+}
+
+#dos {
+  color: blue;
+  font-size: 36px;
+}
+
+#cuatro {
+  background-color: greenyellow;
+  font-size: 24px;
+  font-weight: bold;
+}
